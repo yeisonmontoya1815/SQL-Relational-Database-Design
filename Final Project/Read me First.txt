@@ -1,4 +1,5 @@
-This is the link for connecting to the local host, copy and paste it as the html address when connecting. 
- 
+# NOTES:
 
-http://localhost/Group5_Step6_Files_V1_FrontDB/index.html
+This is the link for connecting to the local host, copy and paste it as the HTML address when connecting. 
+ 
+**http://localhost/Final_Project/index.html**
