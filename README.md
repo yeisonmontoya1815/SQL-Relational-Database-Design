@@ -4,7 +4,13 @@
 
 [link to the Database webpage](https://github.com/yeisonmontoya1815/SQL-Relational-Database-Design/blob/main/Final%20Project/index.html)
 
-## This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+
+📌 **Find me!**
+* [Linkedin](https://www.linkedin.com/in/yeisonmontoya/)
+* [Github](https://github.com/yeisonmontoya1815)
 
 
 Consider a housing complex with several high-rise buildings. This housing complex has several recreation facilities (Swimming Pool, Gym, Tennis Course). Tenants living in these buildings can reserve these facilities and this database system is created to manage these facilities. The data requirements are summarized as follows:
