@@ -1,7 +1,8 @@
 # Project Description
 
 ### This is a group project developed in the Database I course, it is shared just for reference
-Group5_Step6_Files_V1_FrontDB/index.html
+
+[link to the Database webpage](Group5_Step6_Files_V1_FrontDB/index.html)
 
 Consider a housing complex with several high-rise buildings. This housing complex has several recreation facilities (Swimming Pool, Gym, Tennis Course). Tenants living in these buildings can reserve these facilities and this database system is created to manage these facilities. The data requirements are summarized as follows:
 •	Each building has a name and address.
