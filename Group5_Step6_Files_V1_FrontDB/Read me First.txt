@@ -1,0 +1,4 @@
+This is the link for connecting to the local host, copy and paste it as the html address when connecting. 
+ 
+
+http://localhost/Group5_Step6_Files_V1_FrontDB/index.html

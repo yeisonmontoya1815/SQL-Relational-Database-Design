@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<!--(c) Yeison Montoya ID: 300375916-->
+<!--Insert Data HTML file-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Insert Data Into a Database</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <form method="post" action="php/insertIntoValues.php">
+      <fieldset>
+        <legend>Enter the information of the Person:</legend>
+
+        <label>Person ID </label><input type="number" name="PersonID" /> <br />
+        <label>First Name</label><input type="text" name="FName" /> <br />
+        <label>Last Name</label><input type="text" name="LName" /> <br />
+        <label>Email</label><input type="email" name="E_mail"/><br>
+        <label>Phone Number</label><input type="number" name="PhoneNumber"/><br>
+        <label>Person Type</label>
+        <select name="PersonType">
+          <option>Resident</option>
+          <option>Non-Resident</option>
+          <option>Employee</option>
+        </select>
+        <br />
+        <br />
+        <input type="submit" value="SUBMIT" />
+      </fieldset>
+    </form>
+    <br />
+    <a href="index.html">Back to the homepage</a>
+  </body>
+</html>

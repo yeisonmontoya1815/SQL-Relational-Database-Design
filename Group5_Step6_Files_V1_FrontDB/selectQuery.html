@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<!--(c) Yeison Montoya ID: 300375916-->
+<!--Update a Record in a Table-->
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+    <title>Update a Record in a Table</title>
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+  <body>
+    <form method="post" action="php/selectAllQuery.php">
+      <fieldset>
+        <legend>Display All Persons</legend>
+        <br />
+        <br />
+        <input type="submit" value="SUBMIT" />
+      </fieldset>
+    </form>
+    <br />
+    <br />
+    <form method="post" action="php/selectLikeQuery.php">
+      <fieldset>
+        <legend>Display Persons whose name starts with</legend>
+        <label>Person Name </label>
+        <input type="text" name="FName" /> <br />
+        <br />
+        <input type="submit" value="SUBMIT" />
+      </fieldset>
+    </form>
+
+    <br />
+    <br />
+    <form method="post" action="php/selectWhereQuery.php">
+      <fieldset>
+        <legend>Display Persons From a Specific Type of Person</legend>
+        <label>Person Type</label> <input type="text" name="PersonType" /> <br />
+        <br />
+        <input type="submit" value="SUBMIT" />
+      </fieldset>
+    </form>
+    <a href='index.html'>Back to the Homepage</a>
+  </body>
+</html>
