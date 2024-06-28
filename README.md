@@ -1,12 +1,13 @@
 # Project Description
 
 ### This is a group project developed in the Database I course, it is shared just for reference
+Group5_Step6_Files_V1_FrontDB/index.html
 
 Consider a housing complex with several high-rise buildings. This housing complex has several recreation facilities (Swimming Pool, Gym, Tennis Course). Tenants living in these buildings can reserve these facilities and this database system is created to manage these facilities. The data requirements are summarized as follows:
 •	Each building has a name and address.
 •	Each facility has a unique name, type (swimming pool, tennis court…), location (address), and description.
 •	Each tenant or the person who reserves the facility, has a name, date of birth, email, phone number, the apartment where they reside, the name of all residents in the same apartment (house…) …start time and end time they lived in that apartment.
-•	The person who reserves the facility can be a resident of the housing complex or a non-resident.
+•	The person who reserves the facility can be a housing complex resident or non-resident.
 •	The reservation information includes the date, time interval, deposited amount (only non-residents pay it), the facility where they reserved, and the number of guests.
 •	Information about the employee who books the facility is stored.
 •	It is recorded in the database whether the person who reserved the facility showed up.
